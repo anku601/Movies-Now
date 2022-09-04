@@ -32,7 +32,7 @@
   }
   
   .row__poster:hover {
-    transform: scale(1.08);
+    transform: scale(1.2);
   }
   
   .row__posters::-webkit-scrollbar {
@@ -44,7 +44,11 @@
   }
   
   .row__posterLarge:hover {
-    transform: scale(1.09);
+    transform: scale(1.2);
+  }
+  row h2:hover{
+    color: aqua;
+
   }
   
   .row {
