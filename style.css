@@ -46,7 +46,7 @@
   .row__posterLarge:hover {
     transform: scale(1.2);
   }
-  row h2:hover{
+  .row h2:hover{
     color: aqua;
 
   }
